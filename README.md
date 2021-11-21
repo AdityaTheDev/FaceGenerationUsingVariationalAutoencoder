@@ -12,3 +12,5 @@ Finally I found this Anime dataset with 64*64*3 images.
  VAE as two parts, encoder and a decoder.Between the encoder and the decoder there is a space called Latent space which is a distribution Encoder encodes the input image into two disributions that is, Standand deviation and Mean. Then these to distributions are fed into the decoder to generate images. From the latent space a compressed image can be generated(reconstructed image). In this project I have used two loss functions, Mean squared error and Kullback–Leibler divergence loss. KL-Divergence calculates distance between the two distributions and makes sures the distance is small(Mean and standard deviation). Mean squared error penalizes the reconstructed image to make sire it retains all the important features. I know all these things are abstruse. If interested then do learn!
  
  # Output
+ # Original image
+ ![original](original1.png)
