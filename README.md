@@ -18,5 +18,5 @@ Finally I found this Anime dataset with 64*64*3 images.
  # Reconstructed faces
 ![reconstructed](reconstructed.png)
 
-# Genrated faces
-![gen faces](generatedFaces)
+# Generated faces
+![gen faces](generatedFaces.png)
