@@ -4,9 +4,10 @@ In this project I built Variational Autoencoder to generate new set of images. I
 1) I didn't have huge computational source
 2) Struggled with the memory problem(RAM,GPU etc). Even I tried various Google Collab hacks lol.
 3) I couldn't find the dataset I desired(I wanted human face dataset)
-4) The face image dataset that I found was 600*600*3. I wanted images of size 64*64*3 so that I can reduce the cost of computation.
+4) The face image dataset that I found was 600×600×3. I wanted images of size 64*64*3 so that I can reduce the cost of computation..
 
-Finally I found this Anime dataset with 64*64*3 images.
+
+Finally I found this Anime dataset with 64×64×3 images.
 
 
  
